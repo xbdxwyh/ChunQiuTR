@@ -1,0 +1,14 @@
+# checkpoints
+checkpoints/
+
+# python cache
+__pycache__/
+*.pyc
+
+# logs
+*.log
+
+# model weights
+*.pt
+*.bin
+*.safetensors
