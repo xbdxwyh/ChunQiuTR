@@ -24,7 +24,7 @@ Building on this benchmark, we propose **CTD (Calendrical Temporal Dual-encoder)
 - A **time-keyed retrieval benchmark** for Classical Chinese annals with point/gap/window queries and reign-aligned leak-free splits. 
 - A **calendrically time-aware dual-encoder (CTD)** that combines absolute context injection with relative offset biasing. 
 - Explicit modeling of **chrono-near confounders**, including adjacent-month near-duplicates, `neg_comment` distractors, and `no_event` months. 
-- Support for both **BERT-base-Chinese** and **Qwen3-Embedding** backbones in training and evaluation. :contentReference[oaicite:9]{index=9}
+- Support for both **BERT-base-Chinese** and **Qwen3-Embedding** backbones in training and evaluation.
 - Reproducible scripts for **main evaluation, compared baselines, optional reranking, and cross-corpus transfer-style testing**. 
 
 ## 1.2 ChunQiuTR Benchmark
