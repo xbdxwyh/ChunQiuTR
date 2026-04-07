@@ -1,17 +1,14 @@
+<div align="center">
+
 # ChunQiuTR
 
-<p align="center">
-  <b>ChunQiuTR: Time-Keyed Temporal Retrieval in Classical Chinese Annals</b><br>
-  [Conference / Workshop / Preprint, Year]
-</p>
+### Time-Keyed Temporal Retrieval in Classical Chinese Annals
 
-<p align="center">
-  <a href="[paper link]">Paper</a> ·
-  <a href="[arxiv link]">arXiv</a> ·
-  <a href="[dataset link]">Dataset</a> ·
-  <a href="[https://pan.baidu.com/s/1LzL8CNCuHy7S0hxkjxoXnw?pwd=ryg3]">Checkpoint-BERT</a>·
-  <a href="[https://pan.baidu.com/s/1yVl_xWR8zMljSXMoRJxBNg?pwd=c4y6]">Checkpoint-Qwen3</a>
-</p>
+**Findings of ACL 2026**
+
+[Paper](<paper link>) · [arXiv](<arxiv link>) · [Dataset](./dataset) · [Checkpoint (BERT)](https://pan.baidu.com/s/1LzL8CNCuHy7S0hxkjxoXnw?pwd=ryg3) · [Checkpoint (Qwen3)](https://pan.baidu.com/s/1yVl_xWR8zMljSXMoRJxBNg?pwd=c4y6)
+
+</div>
 
 ## 1. Overview
 
