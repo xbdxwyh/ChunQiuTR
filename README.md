@@ -5,28 +5,21 @@
 ### Time-Keyed Temporal Retrieval in Classical Chinese Annals
 
 <p>
-  <img src="https://img.shields.io/badge/Findings_of_ACL-2026-8A2BE2?style=for-the-badge" alt="ACL Findings 2026" />
+  <img src="https://img.shields.io/badge/Findings_of_ACL-2026-8A2BE2?style=flat-square" alt="Findings of ACL 2026" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Task-Temporal_Retrieval-1f6feb?style=for-the-badge" alt="Task" />
   <img src="https://img.shields.io/badge/Language-Classical_Chinese-b58900?style=for-the-badge" alt="Language" />
   <img src="https://img.shields.io/badge/License-MIT-2ea44f?style=for-the-badge" alt="License" />
 </p>
 
 <p>
-  <a href="<paper link>">
-    <img src="https://img.shields.io/badge/Paper-PDF-d73a49?style=flat-square" alt="Paper" />
-  </a>
-  <a href="<arxiv link>">
-    <img src="https://img.shields.io/badge/arXiv-Preprint-b31b1b?style=flat-square" alt="arXiv" />
-  </a>
-  <a href="./dataset">
-    <img src="https://img.shields.io/badge/Dataset-GitHub-0969da?style=flat-square" alt="Dataset" />
-  </a>
-  <a href="https://pan.baidu.com/s/1LzL8CNCuHy7S0hxkjxoXnw?pwd=ryg3">
-    <img src="https://img.shields.io/badge/Checkpoint-BERT-8250df?style=flat-square" alt="Checkpoint BERT" />
-  </a>
-  <a href="https://pan.baidu.com/s/1yVl_xWR8zMljSXMoRJxBNg?pwd=c4y6">
-    <img src="https://img.shields.io/badge/Checkpoint-Qwen3-f57c00?style=flat-square" alt="Checkpoint Qwen3" />
-  </a>
+  <a href="<paper link>"><img src="https://img.shields.io/badge/Paper-PDF-d73a49?style=flat-square" alt="Paper" /></a>
+  <a href="<arxiv link>"><img src="https://img.shields.io/badge/arXiv-Preprint-b31b1b?style=flat-square" alt="arXiv" /></a>
+  <a href="./dataset"><img src="https://img.shields.io/badge/Dataset-GitHub-0969da?style=flat-square" alt="Dataset" /></a>
+  <a href="https://pan.baidu.com/s/1LzL8CNCuHy7S0hxkjxoXnw?pwd=ryg3"><img src="https://img.shields.io/badge/Checkpoint-BERT-8250df?style=flat-square" alt="Checkpoint BERT" /></a>
+  <a href="https://pan.baidu.com/s/1yVl_xWR8zMljSXMoRJxBNg?pwd=c4y6"><img src="https://img.shields.io/badge/Checkpoint-Qwen3-f57c00?style=flat-square" alt="Checkpoint Qwen3" /></a>
 </p>
 
 </div>
