@@ -28,8 +28,8 @@
 
 ## Presentation Materials
 
-- [ACL 2026 Poster](./docs/ChunQiuTR_poster.pdf)
-- [ACL 2026 Slides](./docs/ChunQiuTR_slides.pdf)
+- [ACL 2026 Poster](docs/ChunQiuTR_poster.pdf)
+- [ACL 2026 Slides](docs/ChunQiuTR_slides.pdf)
 
 ## 1. Overview
 
