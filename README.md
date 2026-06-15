@@ -17,12 +17,19 @@
 <p>
   <a href="<paper link>"><img src="https://img.shields.io/badge/Paper-PDF-d73a49?style=flat-square" alt="Paper" /></a>
   <a href="https://arxiv.org/abs/2604.06997"><img src="https://img.shields.io/badge/arXiv-Preprint-b31b1b?style=flat-square" alt="arXiv" /></a>
+  <a href="./docs/ChunQiuTR_poster.pdf"><img src="https://img.shields.io/badge/Poster-ACL_2026-8A2BE2?style=flat-square" alt="Poster" /></a>
+  <a href="./docs/ChunQiuTR_slides.pdf"><img src="https://img.shields.io/badge/Slides-ACL_2026-0969da?style=flat-square" alt="Slides" /></a>
   <a href="./dataset"><img src="https://img.shields.io/badge/Dataset-GitHub-0969da?style=flat-square" alt="Dataset" /></a>
   <a href="https://pan.baidu.com/s/1LzL8CNCuHy7S0hxkjxoXnw?pwd=ryg3"><img src="https://img.shields.io/badge/Checkpoint-BERT-8250df?style=flat-square" alt="Checkpoint BERT" /></a>
   <a href="https://pan.baidu.com/s/1yVl_xWR8zMljSXMoRJxBNg?pwd=c4y6"><img src="https://img.shields.io/badge/Checkpoint-Qwen3-f57c00?style=flat-square" alt="Checkpoint Qwen3" /></a>
 </p>
 
 </div>
+
+## Presentation Materials
+
+- [ACL 2026 Poster](./docs/ChunQiuTR_poster.pdf)
+- [ACL 2026 Slides](./docs/ChunQiuTR_slides.pdf)
 
 ## 1. Overview
 
