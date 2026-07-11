@@ -335,10 +335,11 @@ Users are responsible for checking and complying with the applicable source-page
 If you find this repository useful, please cite:
 
 ```bibtex
-@inproceedings{chunqiutr2026,
-  title={ChunQiuTR: [Title Here]},
-  author={[Author List Here]},
-  booktitle={[Venue Here]},
-  year={2026}
+@inproceedings{wang2026chunqiutr,
+title={ChunQiuTR: Time-Keyed Temporal Retrieval in Classical Chinese Annals},
+author={Wang, Yihao and He, Zijian and Ren, Jie and Wang, Keze},
+booktitle={Findings of ACL},
+doi={10.18653/v1/2026.findings-acl.612},
+year={2026}
 }
 ```
